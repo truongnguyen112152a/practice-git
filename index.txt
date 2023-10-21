@@ -2,3 +2,4 @@ this is the index file
 test rebase
 b1
 b2
+b3
